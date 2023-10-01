@@ -117,7 +117,7 @@
 
 .call{
   background-color: black;
-  height: 25%;
+  height: 15%;
   width: 100%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
