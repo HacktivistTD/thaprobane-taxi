@@ -7,14 +7,17 @@
 
   }
   .packages_img{
-    width: 450px;
-    height: 250px;
+    width: 350px;
+    height: 200px;
 
     }
 
     .products{
     
         display:grid;
-        grid-template-columns: 1fr 1fr ;
-        padding-left:2%;  
+        grid-template-columns: 1fr 1fr 1fr;
+        padding-left:2%;
+        padding-top: 10%;
+        align-self: auto;
+        grid-gap: 10px;
      }   
