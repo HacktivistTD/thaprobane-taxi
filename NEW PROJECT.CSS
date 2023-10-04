@@ -429,17 +429,4 @@ html {
 
 
 /*topic*/
-  .topic{
-    text-align: center;
-    font-size: 25px;
-    color:  #e7c103;
-    font-family: Comic sans MS, sans-serif;
-    font-weight: bolder;
-
-  }
-  .packages_{
-    width: 45px;
-    height: 25px;
-
-    }
-
+  
