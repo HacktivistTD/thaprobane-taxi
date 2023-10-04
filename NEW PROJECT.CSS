@@ -66,7 +66,7 @@
   body, html {
     height: 100%;
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:  Comic sans MS, sans-serif;
   }
   
   * {
@@ -422,3 +422,24 @@ html {
     padding-top: 5%;
     text-align: center;
   }
+
+
+                 /*Packages  Page*/
+
+
+
+/*topic*/
+  .topic{
+    text-align: center;
+    font-size: 25px;
+    color:  #e7c103;
+    font-family: Comic sans MS, sans-serif;
+    font-weight: bolder;
+
+  }
+  .packages_{
+    width: 45px;
+    height: 25px;
+
+    }
+
