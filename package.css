@@ -1,0 +1,20 @@
+.topic{
+    text-align: center;
+    font-size: 25px;
+    color:  #e7c103;
+    font-family: Comic sans MS, sans-serif;
+    font-weight: bolder;
+
+  }
+  .packages_img{
+    width: 450px;
+    height: 250px;
+
+    }
+
+    .products{
+    
+        display:grid;
+        grid-template-columns: 1fr 1fr ;
+        padding-left:2%;  
+     }   
