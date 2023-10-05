@@ -131,6 +131,7 @@
   font-family: Comic sans MS, sans-serif;
   color:  #FFE333;
   align-items: center;
+  font-weight: bolder;
   
 }
 .cll2{
@@ -139,6 +140,8 @@
   font-family: Comic sans MS, sans-serif;
   color:  #52fb09;
   align-items: center;
+  font-weight: bolder;
+
 }
 .cll3{
   padding-left:5%;
@@ -146,11 +149,14 @@
   font-family: Comic sans MS, sans-serif;
   color: #3da5f5;
   align-items: center;
+  font-weight: bolder;
+
 }
 
 .service{text-align: center;
          font-weight: bolder;
          font-size: 30px;
+         font-family: Comic sans MS, sans-serif;
 
 }
 .gridpart1 {
@@ -161,14 +167,16 @@
    
   }
 .icons {text-align: center;
+  font-family: Comic sans MS, sans-serif;
 
 }
 .futures1{text-align: center;
     font-weight: bolder;
     padding-top: 2%;
+    font-family: Comic sans MS, sans-serif;
 }
 .futures2{text-align: center;
-    
+  font-family: Comic sans MS, sans-serif;
     color:gray ;
 }
 
@@ -468,3 +476,6 @@ html {
   font-family: Comic sans MS, sans-serif;
   font-weight: bolder;
 }
+
+/*promotin page*/
+
