@@ -429,4 +429,42 @@ html {
 
 
 /*topic*/
+.topic{
+  text-align: center;
+  font-size: 25px;
+  color:  #e7c103;
+  font-family: Comic sans MS, sans-serif;
+  font-weight: bolder;
+
+}
+.packages_img{
+  width: 400px;
+  height: 250px;
+  border-radius: 5%;
+
+  }
+
+  .products{
   
+      display:grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      padding-left:10%;
+      padding-top: 10%;
+      align-self: auto;
+      grid-gap: 5px;
+   }   
+/*about us*/
+
+.aims{
+  
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-left:10%;
+  padding-top: 10%;
+  align-self: auto;
+  grid-gap: 30px;
+} 
+.vission_mission{
+  font-family: Comic sans MS, sans-serif;
+  font-weight: bolder;
+}
