@@ -1,4 +1,28 @@
-
+ /* Add your responsive CSS here */
+ @media screen and (max-width: 600px) {
+  .navbar a {
+      font-size: 70%;
+  }
+  .call {
+      height: auto;
+  }
+  .cll1, .cll2, .cll3 {
+      padding-top: 5%;
+      font-size: 80%;
+  }
+  .gridpart1 {
+      grid-template-columns: 1fr;
+  }
+  .item1, .item2, .item3, .item4 {
+      text-align: center;
+  }
+  .gridpart3 {
+      grid-template-columns: 1fr;
+  }
+  .policy {
+      font-size: smaller;
+  }
+}
 .navbar {
     overflow: hidden;
     background-color: whitesmoke;
