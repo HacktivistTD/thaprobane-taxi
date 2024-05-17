@@ -1,33 +1,6 @@
  /* Add your responsive CSS here */
  @media screen and (max-width: 600px) {
-  .navbar a {
-      font-size: 70%;
-  }
-  .call {
-      height: auto;
-  }
-  .cll1, .cll2, .cll3 {
-      padding-top: 5%;
-      font-size: 80%;
-  }
-  .gridpart1 {
-      grid-template-columns: 1fr;
-  }
-  .item1, .item2, .item3, .item4 {
-      text-align: center;
-  }
-  .gridpart3 {
-      grid-template-columns: 1fr;
-  }
-  .policy {
-      font-size: smaller;
-  }
-}
-.navbar {
-    overflow: hidden;
-    background-color: whitesmoke;
-  }
-  
+ 
   .navbar a {
     float: left;
     font-size: 80%;
@@ -255,7 +228,7 @@ textarea {
   font-size: 20px;
 }
 .bt:hover {
-  background-color: black;
+  background-color: white;
   color: white;
 }
 input[type="submit"]:hover {
@@ -499,7 +472,7 @@ html {
 .vission_mission{
   font-family: Comic sans MS, sans-serif;
   font-weight: bolder;
-}
+}}
 
 /*promotin page*/
 
